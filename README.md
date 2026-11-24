@@ -1,52 +1,59 @@
-# Hey there! I'm Karthika C 👋
 
-### 🎨 Frontend Developer | Turning Ideas into Interactive Web Experiences
+<div align="center">
 
-I enjoy building modern, responsive websites with creative UI designs, smooth animations, and interactive experiences.
+# Hi, I'm Karthika C 👋
 
-I'm passionate about exploring new frontend technologies and bringing designs to life through code.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%26+Next.js+Developer;Creative+UI+Developer;Building+Interactive+Web+Experiences)](https://git.io/typing-svg)
 
-### 🛠️ Technologies & Tools
+**Turning creative ideas into interactive digital experiences.**
 
-**Frontend Development**
-- HTML5, CSS3, JavaScript
-- React.js, Next.js
-- TypeScript
-- Tailwind CSS
-
-**Animation & 3D**
-- GSAP & ScrollTrigger
-- Three.js (Basic 3D Animations)
-- Lenis (Smooth Scrolling)
-
-**Currently Exploring**
-- Angular (Beginner – Learning Fundamentals)
-- Advanced TypeScript
-- Interactive 3D Web Experiences
-
-### 🚀 Things I Love Building
-
-- Responsive and Adaptive UI Designs
-- Scroll-Based Animation Websites
-- Interactive Landing Pages
-- Creative 3D Web Experiences
-- Reusable Frontend Components
-
-### 💡 Projects & Experiments
-
-- **Orken World** – 3D Interactive Website with GSAP ScrollTrigger
-- **FurniStore** – E-Commerce Website
-- **Adaptive UI** – Exploring a Reusable UI Component Library
-- **Angular Learning Journey** – Practicing Angular Fundamentals
-
-### 🌱 My Learning Philosophy
-
-Learn something new, experiment with it, build something practical, and keep improving.
-
-### 🤝 Let's Connect!
-
-- GitHub: [@Karthika5150](https://github.com/Karthika5150)
+</div>
 
 ---
 
-⭐ *Always curious. Always creating. Always learning.*
+### ⚡ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+**UI & Styling**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Responsive UI](https://img.shields.io/badge/Responsive_UI-8B5CF6?style=for-the-badge)
+
+**Animation & 3D**
+
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs)
+![Lenis](https://img.shields.io/badge/Lenis-Smooth_Scroll-6366F1?style=for-the-badge)
+
+---
+
+### 🚀 Featured Projects
+
+- **Velozix Bits** — Reusable UI Animation Component Library
+- **Orken World** — Interactive Website with GSAP ScrollTrigger Animations
+- **FurniStore** — E-Commerce Website
+
+### 🌱 Currently Exploring
+
+Angular · Advanced TypeScript · Interactive 3D Experiences
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-Karthika5150-181717?style=for-the-badge&logo=github)](https://github.com/Karthika5150)
+
+*Code. Create. Animate. Repeat. ✨*
+
+</div>
