@@ -1,15 +1,11 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Hi,%20I'm%20Karthika%20C&fontSize=42&fontColor=8B5CF6&animation=twinkling&fontAlignY=55" width="100%" />
+# Hi, I'm Karthika C 👋
 
-### 🎨 Frontend Developer | Creative UI Developer
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%26+Next.js+Developer;Creative+UI+Developer;Building+Interactive+Web+Experiences)](https://git.io/typing-svg)
 
-Building modern interfaces, smooth animations & interactive web experiences.
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=React+%26+Next.js+Developer;Creative+UI+Enthusiast;Exploring+Interactive+3D+Experiences)](https://git.io/typing-svg)
+**Turning creative ideas into interactive digital experiences.**
 
 </div>
 
@@ -46,8 +42,6 @@ Building modern interfaces, smooth animations & interactive web experiences.
 - **Orken World** — Interactive Website with GSAP ScrollTrigger Animations
 - **FurniStore** — E-Commerce Website
 
----
-
 ### 🌱 Currently Exploring
 
 Angular · Advanced TypeScript · Interactive 3D Experiences
@@ -67,8 +61,6 @@ Angular · Advanced TypeScript · Interactive 3D Experiences
 <a href="https://github.com/Karthika5150">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
-<br/><br/>
 
 *Code. Create. Animate. Repeat. ✨*
 
