@@ -1,11 +1,15 @@
 
 <div align="center">
 
-# Hi, I'm Karthika C 👋
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=130&text=Hi,%20I'm%20Karthika%20C&fontSize=42&fontColor=8B5CF6&animation=twinkling&fontAlignY=55" width="100%" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=Frontend+Developer;React+%26+Next.js+Developer;Creative+UI+Developer;Building+Interactive+Web+Experiences)](https://git.io/typing-svg)
+### 🎨 Frontend Developer | Creative UI Developer
 
-**Turning creative ideas into interactive digital experiences.**
+Building modern interfaces, smooth animations & interactive web experiences.
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=550&lines=React+%26+Next.js+Developer;Creative+UI+Enthusiast;Exploring+Interactive+3D+Experiences)](https://git.io/typing-svg)
 
 </div>
 
@@ -42,6 +46,8 @@
 - **Orken World** — Interactive Website with GSAP ScrollTrigger Animations
 - **FurniStore** — E-Commerce Website
 
+---
+
 ### 🌱 Currently Exploring
 
 Angular · Advanced TypeScript · Interactive 3D Experiences
@@ -52,7 +58,17 @@ Angular · Advanced TypeScript · Interactive 3D Experiences
 
 ### 🤝 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Karthika5150-181717?style=for-the-badge&logo=github)](https://github.com/Karthika5150)
+<a href="mailto:karthika15102@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/karthika-c-8b5b6b288/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Karthika5150">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
 
 *Code. Create. Animate. Repeat. ✨*
 
