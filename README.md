@@ -50,13 +50,14 @@ Angular · Advanced TypeScript · Interactive 3D Experiences
 
 ### 💼 Experience
 
-**Frontend Developer** | IMUII Technology Pvt Ltd
-*Present*
+[![Frontend Developer](https://img.shields.io/badge/Frontend_Developer-Present-8B5CF6?style=for-the-badge&logo=react&logoColor=white)](https://github.com/Karthika5150)
 
-- Developing responsive web interfaces using React.js, Next.js and Tailwind CSS.
-- Building interactive UI components and animations using GSAP and ScrollTrigger.
-- Working on real-time UI improvements, responsive layouts and frontend bug fixes.
-- Integrating and improving reusable components across projects.
+**IMUII Technology Pvt Ltd**
+
+- Building responsive web interfaces using React.js, Next.js and Tailwind CSS.
+- Developing interactive animations using GSAP and ScrollTrigger.
+- Working on UI improvements, reusable components and frontend development.
+- Working with REST APIs and basic API data integration.
 
 <div align="center">
 
