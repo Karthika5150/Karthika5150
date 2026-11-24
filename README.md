@@ -72,9 +72,7 @@ Angular · Advanced TypeScript · Interactive 3D Experiences
 <a href="https://github.com/Karthika5150">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 <br></br>
-
 *Code. Create. Animate. Repeat. ✨*
 
 </div>
