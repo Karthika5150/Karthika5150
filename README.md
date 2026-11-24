@@ -48,6 +48,16 @@ Angular · Advanced TypeScript · Interactive 3D Experiences
 
 ---
 
+### 💼 Experience
+
+**Frontend Developer** | IMUII Technology Pvt Ltd
+*Present*
+
+- Developing responsive web interfaces using React.js, Next.js and Tailwind CSS.
+- Building interactive UI components and animations using GSAP and ScrollTrigger.
+- Working on real-time UI improvements, responsive layouts and frontend bug fixes.
+- Integrating and improving reusable components across projects.
+
 <div align="center">
 
 ### 🤝 Let's Connect
